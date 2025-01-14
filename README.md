@@ -4,6 +4,10 @@
 The colors-cli help you for backlight and formatting your cli text
 </p>
 
+### How to Install:
+
+```pip install colors-cli```
+
 ### Usage:
 ```python
 from colors_cli import Clrs
